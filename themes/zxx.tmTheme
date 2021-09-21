@@ -316,6 +316,18 @@
 				<string>     italic   </string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>namespace</string>
+			<key>scope</key>
+			<string>namespace, entity.name.namespace</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5C2699</string>
+				<key>fontStyle</key>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>72bddc80-ae60-4dc4-9d8f-45d2b589b6a3</string>
