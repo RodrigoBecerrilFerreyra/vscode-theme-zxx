@@ -1,8 +1,8 @@
 {
-    "name": "theme-zxx",
-    "displayName": "zxx theme",
+    "name": "theme-zxx-plus",
+    "displayName": "zxx theme +",
     "description": "a light theme.",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "publisher": "zenzz",
     "engines": {
         "vscode": "^1.5.0"
@@ -21,6 +21,6 @@
     },
     "repository": {
 		"type": "git",
-		"url": "https://github.com/zenzz/vscode-theme-zxx.git"
+		"url": "https://github.com/RodrigoBecerrilFerreyra/vscode-theme-zxx.git"
 	}
 }
